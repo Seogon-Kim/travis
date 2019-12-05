@@ -26,5 +26,5 @@ install:
 - gcloud config set project cloud-sdk-project
 - pip3 install --upgrade google-cloud-storage
 
-scripts:
+script:
 - python3 cloud_work.py
