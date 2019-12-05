@@ -340,7 +340,7 @@ if __name__ == '__main__':
     
     #############
     # test code #
-    #############
+    ##############
 
     # temp_name = "blast-vm"
     # workflow_obj._vm_instant_name = temp_name
